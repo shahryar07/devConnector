@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://shahryar:3evyiUvJX5lDejcD@devconnector-cluster.jka4s.mongodb.net/?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://shahryar:Dhoni26010702@devconnector-cluster.jka4s.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "sflhaahimazirahyhar"
 }

@@ -14,13 +14,13 @@ const UserSchema = new moongose.Schema({
         type: String,
         required: true
     },
-    avatar: {
-        type: String
-    },
 
     date: {
-        type: Date,
-        default: Date.now()
+       type: String,
+
+    },
+    avatar: {
+        type: String
     }
 });
 
